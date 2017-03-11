@@ -1,0 +1,9 @@
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\EncryptDecrypter\EncryptDecrypter\bin\Debug\EncryptDecrypter.exe.config
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\EncryptDecrypter\EncryptDecrypter\bin\Debug\EncryptDecrypter.exe
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\EncryptDecrypter\EncryptDecrypter\bin\Debug\EncryptDecrypter.pdb
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\EncryptDecrypter\EncryptDecrypter\obj\Debug\EncryptDecrypter.csprojResolveAssemblyReference.cache
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\EncryptDecrypter\EncryptDecrypter\obj\Debug\EncryptDecrypter.Form1.resources
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\EncryptDecrypter\EncryptDecrypter\obj\Debug\EncryptDecrypter.Properties.Resources.resources
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\EncryptDecrypter\EncryptDecrypter\obj\Debug\EncryptDecrypter.csproj.GenerateResource.Cache
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\EncryptDecrypter\EncryptDecrypter\obj\Debug\EncryptDecrypter.exe
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\EncryptDecrypter\EncryptDecrypter\obj\Debug\EncryptDecrypter.pdb
